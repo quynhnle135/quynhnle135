@@ -23,6 +23,5 @@ Welcome to my GitHub page. As an aspiring software engineer, my focus is on back
 * I welcome collaborations, questions, or discussions about technology.
 * Contact me at: sayquynh@gmail.com
 * Connect on LinkedIn: [Quinn Le](https://www.linkedin.com/in/quinnle13/)
-* Check out my Online Learning Journal: [quinnle.io](https://quinnle.io/)
 
 I look forward to the opportunity to connect and collaborate on exciting projects.
